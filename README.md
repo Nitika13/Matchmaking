@@ -1,8 +1,7 @@
 # Matchmaking
-# 🔥 AI-Based Matchmaking System  
+  
 
-## 📌 Project Overview  
-This project is an **AI-powered matchmaking system** that intelligently pairs users based on their textual responses. It uses **Word2Vec embeddings** to understand the semantic meaning of responses and **cosine similarity** to determine how closely two users' responses align.  
+This script is written for **AI-powered matchmaking system** that intelligently pairs users based on their textual responses. It uses **Word2Vec embeddings** to understand the semantic meaning of responses and **cosine similarity** to determine how closely two users' responses align.  
 
 ✅ **Friendship & Social Networking** – Matching users with similar interests. 
 
